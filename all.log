@@ -1,0 +1,3 @@
+2022-07-09 11:37:40.823 [main] DEBUG App - Debug Message Logged !!!
+2022-07-09 11:37:40.825 [main] INFO  App - Info Message Logged !!!
+2022-07-09 11:37:40.825 [main] ERROR App - Error Message Logged !!!
